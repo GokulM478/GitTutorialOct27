@@ -1,2 +1,4 @@
 tester
 Automation tester
+Designer
+developer
